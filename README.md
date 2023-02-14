@@ -11,7 +11,7 @@ Proyecto de clonación de la interfaz de Google con HTML5 y CSS3
 ## 1. Intro
 HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso este sitio este web donde estas viendo este contenido esta contruido con HTML y CSS. En este proyecto con los conocimietnos de HTML y CSS realice la clonación de la interfaz de Google.
 
-##2. Qué contruí
+## 2. Qué contruí
 
 En este proyecto me enfoqué en contruir la clonación de la interfaz de Google. Contiene las siguientes secciones:
 
